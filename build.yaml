@@ -12,4 +12,6 @@ include:
     shield: buster_left 
   - board: xiao_ble
     shield: buster_right
+  - board: xiao_ble//zmk
+    shield: hummingbird rgbled_adapter
 
