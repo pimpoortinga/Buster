@@ -1,0 +1,5 @@
+config SHIELD_BUSTER_LEFT
+    def_bool $(shields_list_contains,buster_left)
+
+config SHIELD_BUSTER_RIGHT
+    def_bool $(shields_list_contains,buster_right)
