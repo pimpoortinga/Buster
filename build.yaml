@@ -8,8 +8,8 @@
 #board: [ "XIAO" ]
 # shield: [ "buster_left", "buster_right" ]
 include:
-  - board: seeed_xiao
+  - board: xiao_ble
     shield: buster_left 
-  - board: seeed_xiao
+  - board: xiao_ble
     shield: buster_right
 
