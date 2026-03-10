@@ -9,7 +9,9 @@
 # shield: [ "buster_left", "buster_right" ]
 include:
   - board: xiao_ble
-    shield: buster_left rgbled_adapter
+    shield: buster_left 
+    # rgbled_adapter
   - board: xiao_ble
-    shield: buster_right rgbled_adapter
+    shield: buster_right 
+    # rgbled_adapter
 
