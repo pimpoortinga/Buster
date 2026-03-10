@@ -10,6 +10,8 @@
 include:
   - board: xiao_ble
     shield: buster_left rgbled_adapter
+    snippet: zmk-usb-logging
   - board: xiao_ble
     shield: buster_right rgbled_adapter
+    snippet: zmk-usb-logging
 
